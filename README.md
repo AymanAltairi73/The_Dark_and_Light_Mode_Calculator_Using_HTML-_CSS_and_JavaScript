@@ -1,0 +1,5 @@
+The calculator's dark mode features a stylish, high-contrast color scheme that is easy on the eyes in low-light environments, while the light mode provides a clean and vibrant appearance for optimal visibility in well-lit surroundings. This dual-mode capability enhances user accessibility and personalization, allowing individuals to tailor their experience based on their preferences and environmental conditions.
+
+The HTML markup of the calculator ensures semantic structure and accessibility, while the CSS styling delivers a visually appealing layout with consistent design elements across both dark and light themes. The JavaScript functionality powers the calculator's arithmetic operations, ensuring accurate calculations and smooth user interactions.
+
+With its combination of HTML, CSS, and JavaScript, the Dark and Light Mode Calculator represents a harmonious integration of front-end technologies to create an engaging and practical web application. Whether used for basic arithmetic or more complex calculations, this calculator exemplifies the power of modern web development techniques to deliver a seamless and visually appealing user experience.
